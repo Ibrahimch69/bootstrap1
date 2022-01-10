@@ -1,0 +1,26 @@
+img{
+    width: 100%;
+    height: 100%;
+}
+.tout{
+    background-color: black;
+}
+.tout2{
+    background-color: blueviolet;
+}
+.tout3{
+    background-color: blueviolet;
+}
+h1{
+    margin: 50px;
+}
+body{
+    background-color: black;
+}
+footer{
+    background-color: black;
+}
+
+.foot{
+    color: white;
+}
